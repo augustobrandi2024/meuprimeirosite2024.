@@ -1,11 +1,13 @@
 body {
-<<<<<<< HEAD
-    background-color: blueviolet;
-    color: aliceblue;
-=======
     background-color: red;
-    color:black
+    color: aliceblue;
+}
 
 header{
     background-color: blue;
+    text-align: center;
+    font-size: 32px;
+    padding: 10px
+    border-bottom: solid 2px black;
+    
 }
