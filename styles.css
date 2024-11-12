@@ -7,7 +7,27 @@ header{
     background-color: blue;
     text-align: center;
     font-size: 32px;
-    padding: 10px
+    padding: 10px;
     border-bottom: solid 2px black;
+}
 
+.primeirovideo {
+    background-color: aqua];
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamadatexto{
+    margin-left: 20px;
+    margin-left: 10px;
+    text-align: justify;
+}
+h1{
+    font-size: 40px;
+    margin-left: 150px;
+}
+
+p{
+    font-size: 20px;
 }
